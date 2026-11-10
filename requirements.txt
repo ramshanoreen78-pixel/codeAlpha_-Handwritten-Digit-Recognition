@@ -1,3 +1,5 @@
+
+
 pandas
 tensorflow
 numpy
@@ -5,6 +7,5 @@ matplotlib
 pillow
 streamlit
 scikit-learn
-matplotlib 
 seaborn
-
+opencv-python-headless
